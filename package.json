@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "live-server src --open=./index.html"
+    "dev": "live-server src --open=./index.html",
+    "dev2": "live-server src --open=./index.html"
   },
   "keywords": [],
   "author": "",
